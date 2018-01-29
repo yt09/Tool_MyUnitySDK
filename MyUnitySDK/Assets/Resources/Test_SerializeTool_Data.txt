@@ -1,0 +1,1 @@
+{"$type":"People, Assembly-CSharp","Name":"杨涛","Age":24,"Gender":0,"Describe":"这是使用  JsonDotNet插件序列化工具 测试SerializeTool序列化(反序列化)工具的脚本"}
