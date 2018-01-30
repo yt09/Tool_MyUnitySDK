@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2015
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyUnitySDK", "MyUnitySDK.csproj", "{46C74826-083D-CD7D-F28F-329E851D98AD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyUnitySDK.Editor", "MyUnitySDK.Editor.csproj", "{1849C2A8-2B66-982C-5AFD-557E52AD1440}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{46C74826-083D-CD7D-F28F-329E851D98AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46C74826-083D-CD7D-F28F-329E851D98AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46C74826-083D-CD7D-F28F-329E851D98AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1849C2A8-2B66-982C-5AFD-557E52AD1440}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1849C2A8-2B66-982C-5AFD-557E52AD1440}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1849C2A8-2B66-982C-5AFD-557E52AD1440}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1849C2A8-2B66-982C-5AFD-557E52AD1440}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
