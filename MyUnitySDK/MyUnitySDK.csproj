@@ -72,8 +72,12 @@
     <Compile Include="Assets\_Tools\EventTriggerListener\Test_EventTriggerListener.cs" />
     <Compile Include="Assets\_Tools\IO\IO.cs" />
     <Compile Include="Assets\_Tools\IO\Test_IO.cs" />
-    <Compile Include="Assets\_Tools\Serialize\SerializeTool.cs" />
-    <Compile Include="Assets\_Tools\Serialize\Test_SerializeTool.cs" />
+    <Compile Include="Assets\_Tools\SerializeTool\SerializeTool.cs" />
+    <Compile Include="Assets\_Tools\SerializeTool\Test_SerializeTool.cs" />
+    <Compile Include="Assets\_Tools\Singleton\MonoSingleton.cs" />
+    <Compile Include="Assets\_Tools\Singleton\Singleton.cs" />
+    <Compile Include="Assets\_Tools\Singleton\Test_MonoSingleton.cs" />
+    <Compile Include="Assets\_Tools\Singleton\Test_Singleton.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Resources\TestCryptoData.txt" />
